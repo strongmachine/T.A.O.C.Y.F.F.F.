@@ -102,6 +102,14 @@ while True:
         sunglasses = apply_taocyfff_filters(faces_keypoints, image_copy_1, "sunglasses.png")
         sunKing_wig = apply_taocyfff_filters(faces_keypoints, image_copy_2,"victorian_costume.png")
 
+        
+
+
+
+
+
+
+
         # Screen with the filter
         cv2.imshow('Screen with filter',sunglasses)
         cv2.imshow('Screen with filter frenchWig',sunKing_wig)
