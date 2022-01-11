@@ -8,6 +8,10 @@ __pycache__/
 
 shape_predictor_68_face_landmarks.dat
 
+training.csv
+
+test.csv
+
 # Distribution / packaging
 .Python
 build/
