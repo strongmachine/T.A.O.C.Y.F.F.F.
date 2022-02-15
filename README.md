@@ -1,23 +1,26 @@
 # T.A.O.C.Y.F.F.F.
 
+![image](https://user-images.githubusercontent.com/86754216/153981330-06b8c267-aca6-4b1c-a347-5172b40d28c3.png)
+
+
 The Application Of Changing Your Face For Fun
 
 ---
 
 ### Background
-Face detection, and its counterpart, facial recognition is at the forefront of machine learning.  We want to explore these two facets through the lens of a SnapChat filter, which uses facial detection to augment a user’s facial features.
+Face detection, and its counterpart, facial recognition is at the forefront of machine learning.Â  We want to explore these two facets through the lens of a SnapChat filter, which uses facial detection to augment a userâ€™s facial features.
 
-### Motivation 
+### MotivationÂ 
 Our motivation is to show the fun side of machine learning, that can translate to a professional or recreational environment, e.g., biometrics.
 
 ### Questions to answer
 * Which facial features are easiest for a computer to recognize; which are hardest?
 * How do the filters handle scaling on multiple devices, e.g., eyes that are 1000 times larger than normal?
-* How many facial landmarks are necessary to implement a snapchat-like filter?  There are a number of them to choose from 68, 5 but what is optimal? 
+* How many facial landmarks are necessary to implement a snapchat-like filter?Â  There are a number of them to choose from 68, 5 but what is optimal?Â 
 
 ### Tools/Modules to use
-* OpenCV, a machine learning library that we haven’t used before, but is foundational for facial recognition machine learning modules. 
-* Dlib, is a secondary component to understanding and mapping faces once they are recognized, it recognizes facial landmarks. Landmarks are important to implementing the output features onto the rendered face. 
+* OpenCV, a machine learning library that we havenâ€™t used before, but is foundational for facial recognition machine learning modules.Â 
+* Dlib, is a secondary component to understanding and mapping faces once they are recognized, it recognizes facial landmarks. Landmarks are important to implementing the output features onto the rendered face.Â 
 * HTML, Javascript for app hosting
 
 ---
